@@ -2,3 +2,5 @@ const append = ["Milo", "Otis", "Garfield"], prepend = ["Milo", "Otis", "Garfiel
 
 append.push("Odie")
 prepend.unshift("Odie")
+removeLast.pop("Odie")
+removeFirst.shift("Odie")
