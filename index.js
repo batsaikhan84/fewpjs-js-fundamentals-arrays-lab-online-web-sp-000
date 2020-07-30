@@ -1,1 +1,1 @@
-pets.push("Odie")
+const appent, prepend, removeLast, removeFirst
